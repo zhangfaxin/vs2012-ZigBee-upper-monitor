@@ -1,0 +1,48 @@
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+E:\My Programme\课件\4\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\B视频\23C#入门\6\6程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+G:\杜洋上位机学习教程压缩版\视频教程文件\视频教程文件\视频教程源码及赠送资料（请全部下载打开，文件都很小）\视频教程源码及赠送资料（请全部下载打开，文件都很小）\杜洋C#资料\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\张法鑫\Desktop\第6集：相关程序\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\张法鑫\Desktop\无线电磁阀控制界面\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.exe
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.pdb
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.exe
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\bin\Debug\SerialCommunicate.pdb
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csprojResolveAssemblyReference.cache
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Form1.resources
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.Properties.Resources.resources
+C:\Users\张法鑫\Desktop\电磁阀相关程序\无线电磁阀控制界面（调试程序）\SerialCommunicate\SerialCommunicate\obj\Debug\SerialCommunicate.csproj.GenerateResource.Cache
